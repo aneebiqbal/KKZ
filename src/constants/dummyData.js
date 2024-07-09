@@ -1,0 +1,37 @@
+export const cardsData = [
+    { id: '1', category: 'Wisdom', text: 'The wise learn from the mistakes of others, while the truly wise learn from their own' },
+    { id: '2', category: 'Wisdom', text: 'In the pursuit of knowledge, we find wisdom; in the pursuit of wisdom, we find peace.' },
+    { id: '3', category: 'Wisdom', text: 'Wisdom is not about knowing all the answers but understanding the right questions to ask.' },
+    { id: '4', category: 'Wisdom', text: 'True wisdom lies not in the accumulation of facts but in the application of knowledge.' },
+    { id: '5', category: 'Wisdom', text: 'The journey to wisdom begins with humility, for only the open mind can embrace profound truths.'},
+    { id: '6', category: 'Inspiration', text: 'The only limit to our realization of tomorrow will be our doubts of today.' },
+    { id: '7', category: 'Inspiration', text: 'In the midst of challenges and obstacles, lies the golden opportunity to rise above and discover our true potential' },
+    { id: '8', category: 'Inspiration', text: 'The journey towards a brighter tomorrow is intricately woven with our ability to conquer self-doubt, for it is the belief in our capabilities that propels us forward.' },
+    { id: '9', category: 'Inspiration', text: 'Time is an invaluable treasure, and it is in our hands to invest it wisely, crafting a life that aligns with our passions, aspirations, and values, rather than living by the expectations of others.'},
+    { id: '10', category: 'Inspiration', text: 'The canvas of the future is blank, and it beckons those who dare to dream and have unwavering faith in the beauty they can create upon it.'},
+    { id: '11', category: 'Family', text: 'Amidst the chaos of the world, family stands as an unshakable pillar of strength, where laughter echoes and tears are wiped away by the warmth of love.' },
+    { id: '12', category: 'Family', text: 'In the tapestry of life, family weaves the threads of our past, present, and future, creating a beautiful mosaic of shared memories, traditions, and dreams.' },
+    { id: '13', category: 'Family', text: 'Family is the symphony of diverse souls, united by bonds of blood and heart, playing the melody of togetherness and harmony through lifes changing rhythms' },
+    { id: '14', category: 'Family', text: 'A family is more than just the sum of its parts; its a tapestry of unique individuals, each contributing their own colors, creating a masterpiece of love, understanding, and compassion.' },
+    { id: '15', category: 'Family', text: 'Family is like the branches of a tree, each growing in different directions, yet their roots remain entwined. Through the winds of change and the storms of life, they stand strong together, offering shelter, love, and a sense of belonging.' },
+    { id: '16', category: 'Forgiveness', text: 'Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.' },
+    { id: '17', category: 'Forgiveness', text: 'In forgiveness, we find the power to let go of the past and make way for a brighter future.' },
+    { id: '18', category: 'Forgiveness', text: 'Forgiveness is a gift we give ourselves, releasing the burden of resentment and embracing freedom.' },
+    { id: '19', category: 'Forgiveness', text: 'Forgiving doesnt mean forgetting, but it means choosing to remember with a compassionate heart.' },
+    { id: '20', category: 'Forgiveness', text: 'The act of forgiveness is not an endorsement of wrongdoing, but a step towards healing and growth.' },
+    { id: '21', category: 'Friendship', text: 'Friendship is the only cement that will ever hold the world together.' },
+    { id: '22', category: 'Friendship', text: 'Friendship is the treasure we collect along our journey, more valuable than any riches the world can offer.' },
+    { id: '23', category: 'Friendship', text: 'In the tapestry of life, friends are the vibrant threads that add colors of laughter, support, and shared memories. They weave through our joys and sorrows, creating a beautiful mosaic of togetherness' },
+    { id: '24', category: 'Friendship', text: 'A true friend is an anchor in the stormy seas of life, holding us steady when the winds of change blow and offering a safe harbor in times of need.' },
+    { id: '25', category: 'Friendship', text: 'Friendship is a magical garden where trust and understanding bloom, watered by the tears of empathy and nurtured by the sunlight of affection.' },
+];
+
+export const categories = [
+    "Wisdom",
+    "Inspiration",
+    "Family",
+    "Forgiveness",
+    "Friendship",
+    "Business",
+];
+  

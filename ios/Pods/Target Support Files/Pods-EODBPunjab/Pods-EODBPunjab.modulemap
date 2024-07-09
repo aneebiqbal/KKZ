@@ -1,0 +1,6 @@
+module Pods_EODBPunjab {
+  umbrella header "Pods-EODBPunjab-umbrella.h"
+
+  export *
+  module * { export * }
+}
